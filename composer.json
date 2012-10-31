@@ -1,0 +1,28 @@
+{
+
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "git://github.com/johnstevenson/jsonrpc-secure"
+    },
+    {
+      "type": "vcs",
+      "url": "git://github.com/johnstevenson/jsonrpc"
+    },
+    {
+      "type": "vcs",
+      "url": "git://github.com/johnstevenson/authkey-secure"
+    },
+    {
+      "type": "vcs",
+      "url": "git://github.com/johnstevenson/authkey"
+    }
+  ],
+
+  "minimum-stability": "dev",
+
+  "require": {
+    "jsonrpc/secure": "dev-master"
+  }
+
+}
